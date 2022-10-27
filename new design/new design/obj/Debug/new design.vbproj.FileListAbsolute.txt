@@ -1,0 +1,12 @@
+C:\Users\marim\source\repos\new design\new design\bin\Debug\new design.exe.config
+C:\Users\marim\source\repos\new design\new design\bin\Debug\new design.exe
+C:\Users\marim\source\repos\new design\new design\bin\Debug\new design.pdb
+C:\Users\marim\source\repos\new design\new design\bin\Debug\new design.xml
+C:\Users\marim\source\repos\new design\new design\obj\Debug\new design.vbproj.AssemblyReference.cache
+C:\Users\marim\source\repos\new design\new design\obj\Debug\new_design.Form1.resources
+C:\Users\marim\source\repos\new design\new design\obj\Debug\new_design.Resources.resources
+C:\Users\marim\source\repos\new design\new design\obj\Debug\new design.vbproj.GenerateResource.cache
+C:\Users\marim\source\repos\new design\new design\obj\Debug\new design.vbproj.CoreCompileInputs.cache
+C:\Users\marim\source\repos\new design\new design\obj\Debug\new design.exe
+C:\Users\marim\source\repos\new design\new design\obj\Debug\new design.xml
+C:\Users\marim\source\repos\new design\new design\obj\Debug\new design.pdb

@@ -1,0 +1,1176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+new design
+</name>
+</assembly>
+<members>
+<member name="T:new_design.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:new_design.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:new_design.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.dmmyview1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.dummy1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.GST_B2B_DetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.report_DC_DetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportAgingDetialsByBillDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCashierCollection1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCashierCollection2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCashierCollection3DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCustomerAgingDetialsByBillDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCustomerBalanceSummaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCustomerOutstandingAgingSummaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCustomerTrackingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportExpiryStockAnalysisDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetCategoryAgeWiseStockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetItemAgeWiseStockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetNonMovingStockByCategDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetStockDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetTendorWiseSalesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetVendorAgeWiseStockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportOutstandingAgingSummaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseByVendorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseReturnByVendorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseReturnDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseReturnSummaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseSummaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSales_And_SaleReturn_SummaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesByCustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesReturnByCustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesReturnDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesReturnSummaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesSummaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportVendorBalanceSummaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.salebillviewDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.TemporaryTableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_BillStatementDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_CreditNoteDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_Location_TransDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_PaymentBillPrintDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_PurchaseBarcodePrintDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_PurchaseBillPrintDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_PurchaseReturnBillPrintDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_QuotationPrintDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_ReceiptBillPrintDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_SalesBillPrintDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_SalesReturnBillPrintDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_SalesReturnPrintdummyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.viewDueBillReceiptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.viewgetAccStatementDetialDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.viewgetAccStatementHeaderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.viewMergeAccStatementDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.dmmyview1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.dummy1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.GST_B2B_DetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.report_DC_DetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportAgingDetialsByBillRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCashierCollection1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCashierCollection2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCashierCollection3Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCustomerAgingDetialsByBillRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCustomerBalanceSummaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCustomerOutstandingAgingSummaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCustomerTrackingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportExpiryStockAnalysisRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetCategoryAgeWiseStockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetItemAgeWiseStockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetNonMovingStockByCategRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetStockDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetTendorWiseSalesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetVendorAgeWiseStockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportOutstandingAgingSummaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseByVendorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseReturnByVendorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseReturnDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseReturnSummaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseSummaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSales_And_SaleReturn_SummaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesByCustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesReturnByCustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesReturnDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesReturnSummaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesSummaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportVendorBalanceSummaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.salebillviewRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.TemporaryTableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_BillStatementRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_CreditNoteDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_Location_TransRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_PaymentBillPrintRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_PurchaseBarcodePrintRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_PurchaseBillPrintRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_PurchaseReturnBillPrintRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_QuotationPrintRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_ReceiptBillPrintRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_SalesBillPrintRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_SalesReturnBillPrintRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_SalesReturnPrintdummyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.viewDueBillReceiptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.viewgetAccStatementDetialRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.viewgetAccStatementHeaderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.viewMergeAccStatementRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.dmmyview1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.dummy1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.GST_B2B_DetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.report_DC_DetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportAgingDetialsByBillRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCashierCollection1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCashierCollection2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCashierCollection3RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCustomerAgingDetialsByBillRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCustomerBalanceSummaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCustomerOutstandingAgingSummaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportCustomerTrackingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportExpiryStockAnalysisRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetCategoryAgeWiseStockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetItemAgeWiseStockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetNonMovingStockByCategRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetStockDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetTendorWiseSalesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportgetVendorAgeWiseStockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportOutstandingAgingSummaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseByVendorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseReturnByVendorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseReturnDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseReturnSummaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportPurchaseSummaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSales_And_SaleReturn_SummaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesByCustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesReturnByCustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesReturnDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesReturnSummaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportSalesSummaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.reportVendorBalanceSummaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.salebillviewRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.TemporaryTableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_BillStatementRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_CreditNoteDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_Location_TransRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_PaymentBillPrintRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_PurchaseBarcodePrintRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_PurchaseBillPrintRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_PurchaseReturnBillPrintRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_QuotationPrintRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_ReceiptBillPrintRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_SalesBillPrintRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_SalesReturnBillPrintRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.view_SalesReturnPrintdummyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.viewDueBillReceiptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.viewgetAccStatementDetialRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.viewgetAccStatementHeaderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet.viewMergeAccStatementRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.dmmyview1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.dummy1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.GST_B2B_DetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.report_DC_DetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportAgingDetialsByBillTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportCashierCollection1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportCashierCollection2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportCashierCollection3TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportCustomerAgingDetialsByBillTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportCustomerBalanceSummaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportCustomerOutstandingAgingSummaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportCustomerTrackingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportExpiryStockAnalysisTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportgetCategoryAgeWiseStockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportgetItemAgeWiseStockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportgetNonMovingStockByCategTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportgetStockDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportgetTendorWiseSalesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportgetVendorAgeWiseStockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportOutstandingAgingSummaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportPurchaseByVendorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportPurchaseDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportPurchaseReturnByVendorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportPurchaseReturnDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportPurchaseReturnSummaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportPurchaseSummaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportSales_And_SaleReturn_SummaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportSalesByCustomerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportSalesDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportSalesReturnByCustomerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportSalesReturnDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportSalesReturnSummaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportSalesSummaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.reportVendorBalanceSummaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.salebillviewTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.TemporaryTableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.view_BillStatementTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.view_CreditNoteDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.view_Location_TransTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.view_PaymentBillPrintTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.view_PurchaseBarcodePrintTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.view_PurchaseBillPrintTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.view_PurchaseReturnBillPrintTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.view_QuotationPrintTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.view_ReceiptBillPrintTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.view_SalesBillPrintTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.view_SalesReturnBillPrintTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.view_SalesReturnPrintdummyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.viewDueBillReceiptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.viewgetAccStatementDetialTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.viewgetAccStatementHeaderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.viewMergeAccStatementTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:new_design.AlgoMdDbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(new_design.AlgoMdDbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:new_design.AlgoMdDbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(new_design.AlgoMdDbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:new_design.AlgoMdDbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(new_design.AlgoMdDbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:new_design.AlgoMdDbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:new_design.AlgoMdDbDataSetTableAdapters.TableAdapterManager.UpdateAll(new_design.AlgoMdDbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet1.Tbl_Trans_HeaderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet1.Tbl_Trans_HeaderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet1.Tbl_Trans_HeaderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet1TableAdapters.Tbl_Trans_HeaderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:new_design.AlgoMdDbDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(new_design.AlgoMdDbDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:new_design.AlgoMdDbDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(new_design.AlgoMdDbDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:new_design.AlgoMdDbDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(new_design.AlgoMdDbDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:new_design.AlgoMdDbDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:new_design.AlgoMdDbDataSet1TableAdapters.TableAdapterManager.UpdateAll(new_design.AlgoMdDbDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:new_design.AlgoMdDbDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

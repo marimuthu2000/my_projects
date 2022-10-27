@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AlgoMdDbDataSet1" targetNamespace="http://tempuri.org/AlgoMdDbDataSet1.xsd" xmlns:mstns="http://tempuri.org/AlgoMdDbDataSet1.xsd" xmlns="http://tempuri.org/AlgoMdDbDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="AlgoMdDbConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="AlgoMdDbConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.new_design.My.MySettings.GlobalReference.Default.AlgoMdDbConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Tbl_Trans_HeaderTableAdapter" GeneratorDataComponentClassName="Tbl_Trans_HeaderTableAdapter" Name="Tbl_Trans_Header" UserDataComponentName="Tbl_Trans_HeaderTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="AlgoMdDbConnectionString (MySettings)" DbObjectName="AlgoMdDb.dbo.Tbl_Trans_Header" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT TTH_Print_Size FROM dbo.Tbl_Trans_Header</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="TTH_Print_Size" DataSetColumn="TTH_Print_Size" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AlgoMdDbDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="AlgoMdDbDataSet1" msprop:Generator_UserDSName="AlgoMdDbDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Tbl_Trans_Header" msprop:Generator_TableClassName="Tbl_Trans_HeaderDataTable" msprop:Generator_TableVarName="tableTbl_Trans_Header" msprop:Generator_TablePropName="Tbl_Trans_Header" msprop:Generator_RowDeletingName="Tbl_Trans_HeaderRowDeleting" msprop:Generator_RowChangingName="Tbl_Trans_HeaderRowChanging" msprop:Generator_RowEvHandlerName="Tbl_Trans_HeaderRowChangeEventHandler" msprop:Generator_RowDeletedName="Tbl_Trans_HeaderRowDeleted" msprop:Generator_UserTableName="Tbl_Trans_Header" msprop:Generator_RowChangedName="Tbl_Trans_HeaderRowChanged" msprop:Generator_RowEvArgName="Tbl_Trans_HeaderRowChangeEvent" msprop:Generator_RowClassName="Tbl_Trans_HeaderRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TTH_Print_Size" msprop:Generator_ColumnVarNameInTable="columnTTH_Print_Size" msprop:Generator_ColumnPropNameInRow="TTH_Print_Size" msprop:Generator_ColumnPropNameInTable="TTH_Print_SizeColumn" msprop:Generator_UserColumnName="TTH_Print_Size" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
