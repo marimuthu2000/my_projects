@@ -5,7 +5,7 @@ Public Class Form1
     Public Sub TRANSACTION_TYPE()
         'Folder load from DB
         Try
-            Dim con As SqlConnection = New SqlConnection("Data Source=LAPTOP-OJC1HEI8\ALGO;Initial Catalog=AlgoMdDb;Persist Security Info=True;User ID=sa;Password=Alg0@2017")
+            Dim con As SqlConnection = New SqlConnection("Data Source=LAPTOP-OJC1HEI8\ALGO;Initial Catalog=AlgoMdDb;Persist Security Info=True;User ID=sa;Password=")
             con.Open()
             Dim da As New SqlDataAdapter("
 select 0 AS TTH_hdr_id,'--- Choose Type ---' AS TTH_Hdr_Name 
